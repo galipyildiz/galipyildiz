@@ -1,10 +1,8 @@
 <html>
 <body>
-<h1 style="color:blue;fon-size:50px;">
+<h1 style="color:blue;font-size:100px;">
 <p align="center">
-	<img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> <b>Hi there</b> </h1>
-</p>
-</h1>
+	<img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="100px"> <b><i> Hi there</b></i> </h1>
 </html>
 </body>
 
