@@ -1,8 +1,7 @@
 <html>
-<head>
-h1 {text-align: center;}
-<h1 aling="center"><img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h1>
-</head>
+<body>
+<h1 style="text-align:center;"><img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h1>
+</body>
 </html>
 
 <p align="center"> 
