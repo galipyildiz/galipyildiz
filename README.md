@@ -1,7 +1,7 @@
 <html>
 <body>
 <p align="center">
-	<img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h1>
+	<img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> <b>Hi there</b> </h1>
 </p>
 </html>
 </body>
