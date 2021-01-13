@@ -2,7 +2,7 @@
 <p align="center">
   <img align="center" height="270px" alt="GIF" src="jimcarrey.gif" />
 </p>
-<img align="bottom" alt="GIF" height="170px" src="dino.gif" />
+<img src="dino.gif" />
 <!--
 **galip975/galip975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
