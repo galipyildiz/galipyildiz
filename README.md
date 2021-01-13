@@ -1,5 +1,5 @@
-<img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"><h3> Hi there </h3>
-<p align="center">
+<h3><img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h3>
+<p align="center"> 
   <img align="center" height="270px" alt="GIF" src="jimcarrey.gif" />
 </p>
 <img src="dino.gif" />
