@@ -16,7 +16,7 @@
 </details>
  
 <details>
-<summary> <b>📫 Contact me </b></summary>
+<summary> <b>📫 Contact me (Click png)</b></summary>
 <p align="center">
 <a href="https://www.linkedin.com/in/galip-y%C4%B1ld%C4%B1z/"><img height="40px" alt="LinkedIn" src="linkedin.png"></a>
  <a href="https://www.instagram.com/gaaliip/"><img height="40px" alt="Instagram" src="insta.png"></a>
