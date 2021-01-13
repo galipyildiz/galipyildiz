@@ -1,4 +1,10 @@
-<h3 aling="center"><img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h3>
+<html>
+<head>
+h1 {text-align: center;}
+<h1 aling="center"><img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hi there </h1>
+</head>
+</html>
+
 <p align="center"> 
   <img align="center" height="270px" alt="GIF" src="jimcarrey.gif" />
 </p>
