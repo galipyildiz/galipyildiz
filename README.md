@@ -1,5 +1,5 @@
 ### Hi there 👋
-💬instagram: @gaaliip💬
+💬instagram: @gaaliip💬\r\n
 ![17Cg](https://user-images.githubusercontent.com/70694743/103487994-67a64c00-4e1a-11eb-84ee-ede45e778db3.gif)
 
 
