@@ -16,11 +16,11 @@
 <html>
 <body>
 <h2 style="color:blue;font-size 50px">
-<b>📫 Contact me (Click png)</b></h2>
+<b>📫 Contact me </b></h2>
 </html>
 </body>
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/galip-y%C4%B1ld%C4%B1z/"><img height="40px" alt="LinkedIn" src="linkedin.png"></a>
  <a href="https://www.instagram.com/gaaliip/"><img height="40px" alt="Instagram" src="insta.png"></a>
 <a href="mailto:galipyildiz9606@outlook.com"><img height="40px" alt="Email" src="outlook.png"></a>
