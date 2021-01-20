@@ -26,7 +26,6 @@
 <a href="mailto:galipyildiz9606@outlook.com"><img height="40px" alt="Email" src="outlook.png"></a>
 </p>
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Femrecansiz.emrecansiz%2Freadme)
 
 <!--
 **galip975/galip975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
