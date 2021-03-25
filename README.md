@@ -5,7 +5,7 @@
 - ⚡ galipyildiz.com
 - ⚡ photoblog.galipyildiz.com
 - ⚡ galipyildiz.tk
-
+---
 
 
 
