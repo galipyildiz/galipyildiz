@@ -8,7 +8,7 @@
 - ⚡ https://galipyildiz.com
 - ⚡ https://photoblog.galipyildiz.com
 
----
+
 
 
 <!--
