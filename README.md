@@ -1,21 +1,10 @@
+# Hi there, I'm Galip - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="50px"> <b><i> Hi there</b></i> </h1>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
+---
 
-
- <img align="center" height="200px" alt="GIF" src="jimcarrey.gif" />
-
-
-
- 
-
-
-<p align="left">
-<a href="https://www.linkedin.com/in/galip-y%C4%B1ld%C4%B1z/"><img height="40px" alt="LinkedIn" src="linkedin.png"></a>
- <a href="https://www.instagram.com/gaaliip/"><img height="40px" alt="Instagram" src="insta.png"></a>
-<a href="mailto:galipyildiz9606@outlook.com"><img height="40px" alt="Email" src="outlook.png"></a>
-</p>
-
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 <!--
 **galip975/galip975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
