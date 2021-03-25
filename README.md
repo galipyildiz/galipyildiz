@@ -1,24 +1,14 @@
-<html>
-<body>
-<h1 style="color:blue;font-size:50px;font-style:oblique">
-<p align="center">
-	<img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="50px"> <b><i> Hi there</b></i> </h1>
-</html>
-</body>
 
-<p align="center"> 
-  <img align="center" height="200px" alt="GIF" src="jimcarrey.gif" />
-</p>
-<!--END_SECTION:waka-->
+<img align="center" src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="50px"> <b><i> Hi there</b></i> </h1>
+
+
+
+ <img align="center" height="200px" alt="GIF" src="jimcarrey.gif" />
+
 
 
  
-<html>
-<body>
-<h2 style="color:blue;font-size 50px">
-<b>📫 Contact me </b></h2>
-</html>
-</body>
+
 
 <p align="left">
 <a href="https://www.linkedin.com/in/galip-y%C4%B1ld%C4%B1z/"><img height="40px" alt="LinkedIn" src="linkedin.png"></a>
