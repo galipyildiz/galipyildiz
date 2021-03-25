@@ -4,9 +4,9 @@
 
 ## I'm Software Developer and My Websites:  
 
-- ⚡ galipyildiz.tk
-- ⚡ galipyildiz.com
-- ⚡ photoblog.galipyildiz.com
+- ⚡ https://galipyildiz.tk
+- ⚡ https://galipyildiz.com
+- ⚡ https://photoblog.galipyildiz.com
 
 ---
 
