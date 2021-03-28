@@ -7,7 +7,7 @@
 - ⚡ https://galipyildiz.tk
 - ⚡ https://galipyildiz.com
 - ⚡ https://photoblog.galipyildiz.com
-
+- ⚡ https://easynote.galipyildiz.com
 
 
 
