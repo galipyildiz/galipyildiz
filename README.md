@@ -5,6 +5,7 @@
 ## My Websites:  
 
 - ⚡ https://galipyildiz.tk
+- ⚡ https://galipyildiz.tk/site1
 - ⚡ https://galipyildiz.com
 - ⚡ https://photoblog.galipyildiz.com
 - ⚡ https://easynote.galipyildiz.com
