@@ -9,6 +9,7 @@
 - ⚡ https://galipyildiz.com
 - ⚡ https://photoblog.galipyildiz.com
 - ⚡ https://easynote.galipyildiz.com
+- ⚡ https://yeniyilkarti.galipyildiz.com
 
 
 
