@@ -12,6 +12,7 @@
 - ⚡ https://yeniyilkarti.galipyildiz.com
 - ⚡ https://galipyildiz.github.io
 - ⚡ https://galipyildiz.github.io/cvtemplate
+- ⚡ https://galipyildiz.github.io/brandtemplate
 
 
 
