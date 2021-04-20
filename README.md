@@ -10,6 +10,7 @@
 - ⚡ https://photoblog.galipyildiz.com
 - ⚡ https://easynote.galipyildiz.com
 - ⚡ https://yeniyilkarti.galipyildiz.com
+- ⚡ https://ohgblog.tk (coming soon)
 
 
 
