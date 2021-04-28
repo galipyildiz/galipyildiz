@@ -11,7 +11,8 @@
 - ⚡ https://easynote.galipyildiz.com
 - ⚡ https://yeniyilkarti.galipyildiz.com
 - ⚡ https://guzelsozlerim.galipyildiz.com
-- ⚡ https://ohgblog.tk (coming soon)
+- ⚡ https://ohgblog.com (coming soon)
+- ⚡ https://bymusicteam.com (coming soon)
 
 
 
