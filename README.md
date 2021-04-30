@@ -12,7 +12,7 @@
 - ⚡ https://yeniyilkarti.galipyildiz.com
 - ⚡ https://guzelsozlerim.galipyildiz.com
 - ⚡ https://ohgblog.com
-- ⚡ https://bymusicteam.com (coming soon)
+- ⚡ https://bymusicteam.com
 
 
 
