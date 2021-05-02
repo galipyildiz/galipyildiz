@@ -2,6 +2,7 @@
 <p align="center">
     <img width="500" src="https://raw.githubusercontent.com/tonynguyenit18/tonynguyenit18/main/static/code-guy.jpeg">
 </p>
+    
 ```js
 import SoftwareDeveloper from 'thompsonemerson';
 
@@ -18,3 +19,4 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
 }
 ```
+----
