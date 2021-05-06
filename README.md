@@ -20,3 +20,4 @@ class Skills extends SoftwareDeveloper {
 }
 ```
 ----
+<a href="https://galipyildiz.com/"><img width="80" src="https://i.morioh.com/200611/8875019c.jpg"><a>
