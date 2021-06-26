@@ -21,3 +21,4 @@ class Skills extends SoftwareDeveloper {
 ```
 ----
 <a href="https://hub.docker.com/u/galipyildiz/"><img width="80" src="https://i.morioh.com/200611/8875019c.jpg"><a>
+<a href="https://gitlab.com/galipyildiz"><img width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/GitLab_logo.svg/1200px-GitLab_logo.svg.png"><a>
