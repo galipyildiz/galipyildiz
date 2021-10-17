@@ -24,7 +24,3 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Arduino](https://img.shields.io/badge/-Arduino-1d5356?style=flat-square&logo=arduino)
 ![Markdown](https://img.shields.io/badge/-Markdown-default?style=flat-square&logo=markdown)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=galipyildiz&count_private=true&show_icons=true&include_all_commits=true)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=galipyildiz) [![Github](https://img.shields.io/github/followers/galipyildiz?label=Follow&style=social)](https://github.com/galipyildiz)
