@@ -1,3 +1,1 @@
-## Hi, I'm Galip
-
-![](https://thumbs.gfycat.com/EnormousPoisedCurlew.webp)
+## Hi, I'm Galip.
