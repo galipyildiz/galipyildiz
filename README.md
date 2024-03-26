@@ -28,7 +28,6 @@
 
 #### Contact
 
-- 📫 E-mail: [galipyildiz9606@gmail.com](mailto:galipyildiz9606@gmail.com)
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/galipyildiz/)
 - 🌐 Website: [https://galipyildiz.github.io/](https://galipyildiz.github.io/)
 
