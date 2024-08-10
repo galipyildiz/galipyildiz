@@ -31,5 +31,3 @@
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/galipyildiz/)
 - 🌐 Website: [https://galipyildiz.github.io/](https://galipyildiz.github.io/)
 
-#### Support
-[![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/gaaliip)
