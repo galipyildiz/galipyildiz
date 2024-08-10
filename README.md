@@ -28,6 +28,6 @@
 
 #### Contact
 
-- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/galipyildiz/)
-- 🌐 Website: [https://galipyildiz.github.io/](https://galipyildiz.github.io/)
+- 🔗 LinkedIn: [linkedin.com/in/galipyildiz/](https://www.linkedin.com/in/galipyildiz/)
+- 🌐 Website: [galipyildiz.github.io/](https://galipyildiz.github.io/)
 
